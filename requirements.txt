@@ -8,6 +8,8 @@ colorama==0.4.4
 decorator==4.4.2
 defusedxml==0.6.0
 Django==2.2.4
+django-filter==2.4.0
+djangorestframework==3.12.2
 entrypoints==0.3
 ipykernel==5.4.2
 ipython==7.19.0
@@ -23,6 +25,7 @@ jupyter-console==6.2.0
 jupyter-core==4.7.0
 jupyterlab-pygments==0.1.2
 jupyterlab-widgets==1.0.0
+Markdown==3.3.3
 MarkupSafe==1.1.1
 mistune==0.8.4
 nbclient==0.5.1
